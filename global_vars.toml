@@ -3,6 +3,12 @@ addr = 0x201c
 name = "file"
 size = 0x7
 
+[0x2034]
+last_change = 2023-03-04T19:43:15.232826Z
+addr = 0x2034
+name = "filename"
+size = 0xb
+
 [0x203f]
 addr = 0x203f
 name = "s2"
