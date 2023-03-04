@@ -1,0 +1,6 @@
+[0x13ee]
+last_change = 2023-03-04T03:52:42.947508Z
+addr = 0x13ee
+func_addr = 0x13d1
+comment = "*array == array[0]"
+decompiled = true
