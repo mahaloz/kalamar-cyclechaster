@@ -1,12 +1,20 @@
 [metadata]
 addr = 0x154a
 size = 0x546
-last_change = 2023-03-04T03:54:20.394228Z
+last_change = 2023-03-04T03:55:08.328846Z
 
 [stack_vars.-0xb8]
 last_change = 2023-03-04T03:54:20.394228Z
 offset = -184
 name = "user_input"
 type = "void *"
+size = 0x8
+addr = 0x154a
+
+[stack_vars.-0xb0]
+last_change = 2023-03-04T03:55:08.328846Z
+offset = -176
+name = "v17"
+type = "char *"
 size = 0x8
 addr = 0x154a
