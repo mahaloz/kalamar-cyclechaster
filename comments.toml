@@ -5,9 +5,9 @@ func_addr = 0x13d1
 comment = "*array == array[0]"
 decompiled = true
 
-[0x1491]
-last_change = 2023-03-04T03:53:27.654077Z
-addr = 0x1491
+[0x1476]
+last_change = 2023-03-04T03:53:27.666053Z
+addr = 0x1476
 func_addr = 0x13d1
-comment = "go in reverse"
+comment = "\n"
 decompiled = true
