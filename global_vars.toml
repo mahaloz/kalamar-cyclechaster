@@ -3,8 +3,8 @@ addr = 0x201c
 name = "file"
 size = 0x7
 
-[0x2034]
-last_change = 2023-03-04T03:58:01.056422Z
-addr = 0x2034
-name = "filename"
-size = 0xb
+[0x2032]
+last_change = 2023-03-04T03:58:01.064007Z
+addr = 0x2032
+name = "modes"
+size = 0x2
