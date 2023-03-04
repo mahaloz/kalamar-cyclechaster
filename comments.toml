@@ -6,8 +6,8 @@ comment = "*array == array[0]"
 decompiled = true
 
 [0x192a]
-last_change = 2023-03-04T03:56:14.288510Z
+last_change = 2023-03-04T03:56:26.345691Z
 addr = 0x192a
 func_addr = 0x154a
-comment = "last 64 rounds"
+comment = "\nlast 64 rounds to access the flag content"
 decompiled = true
