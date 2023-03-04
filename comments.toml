@@ -4,3 +4,10 @@ addr = 0x13ee
 func_addr = 0x13d1
 comment = "*array == array[0]"
 decompiled = true
+
+[0x1491]
+last_change = 2023-03-04T03:53:27.654077Z
+addr = 0x1491
+func_addr = 0x13d1
+comment = "go in reverse"
+decompiled = true
