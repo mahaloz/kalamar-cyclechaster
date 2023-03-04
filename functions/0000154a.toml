@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x154a
 size = 0x546
-last_change = 2023-03-04T03:58:42.347928Z
+last_change = 2023-03-04T04:04:46.501965Z
 
 [stack_vars.-0xb8]
 last_change = 2023-03-04T03:54:20.394228Z
@@ -12,10 +12,10 @@ size = 0x8
 addr = 0x154a
 
 [stack_vars.-0xd8]
-last_change = 2023-03-04T03:57:43.011805Z
+last_change = 2023-03-04T04:04:46.501965Z
 offset = -216
-name = "many_random_bytes"
-type = "void *"
+name = "random_array"
+type = "char *"
 size = 0x8
 addr = 0x154a
 
