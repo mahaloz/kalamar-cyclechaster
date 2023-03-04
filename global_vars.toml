@@ -2,9 +2,3 @@
 addr = 0x201c
 name = "file"
 size = 0x7
-
-[0x2083]
-last_change = 2023-03-04T03:58:01.023635Z
-addr = 0x2083
-name = ""
-size = 0x1
