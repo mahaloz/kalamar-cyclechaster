@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x13d1
 size = 0x179
+
+[header]
+name = "encrypt"
+addr = 0x13d1
