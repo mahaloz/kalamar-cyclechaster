@@ -1,4 +1,9 @@
 [metadata]
 addr = 0x13d1
 size = 0x179
-last_change = 2023-03-06T19:04:59.664540Z
+last_change = 2023-03-06T19:04:59.736531Z
+
+[header]
+last_change = 2023-03-06T19:04:59.736531Z
+name = "dummy_thicc"
+addr = 0x13d1
