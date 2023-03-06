@@ -1,7 +1,12 @@
 [metadata]
 addr = 0x154a
 size = 0x546
-last_change = 2023-03-04T04:04:46.501965Z
+last_change = 2023-03-06T18:55:11.161729Z
+
+[header]
+last_change = 2023-03-06T18:55:11.161729Z
+name = "mahaloz_main"
+addr = 0x154a
 
 [stack_vars.-0xb8]
 last_change = 2023-03-04T03:54:20.394228Z
