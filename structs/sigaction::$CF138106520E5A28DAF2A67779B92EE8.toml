@@ -1,10 +1,16 @@
 [metadata]
 name = "sigaction::$CF138106520E5A28DAF2A67779B92EE8"
 size = 0x8
-last_change = 2023-03-04T05:14:12.705670Z
+last_change = 2023-03-06T19:00:40.633331Z
 
 [members.0x0]
 name = "sa_handler"
 offset = 0x0
+type = "__sighandler_t"
+size = 0x8
+
+[members.0x1]
+name = "sa_sigaction"
+offset = 0x1
 type = ""
 size = 0x8
