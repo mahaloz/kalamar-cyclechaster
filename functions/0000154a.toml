@@ -1,11 +1,11 @@
 [metadata]
 addr = 0x154a
 size = 0x546
-last_change = 2023-03-06T18:55:44.349133Z
+last_change = 2023-03-06T18:59:43.709916Z
 
 [header]
-last_change = 2023-03-06T18:55:44.349133Z
-name = "another_main_change"
+last_change = 2023-03-06T18:59:43.709916Z
+name = "super_main"
 addr = 0x154a
 
 [stack_vars.-0xb8]
