@@ -1,12 +1,4 @@
 [metadata]
 addr = 0x13d1
 size = 0x179
-last_change = 2023-03-06T19:04:11.617554Z
-
-[stack_vars.-0x10]
-last_change = 2023-03-06T19:04:11.617554Z
-offset = -16
-name = "some_step"
-type = "unsigned long long"
-size = 0x8
-addr = 0x13d1
+last_change = 2023-03-06T19:04:59.664540Z
