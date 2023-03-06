@@ -1,5 +1,5 @@
 user = "mahaloz"
 version = 0x0
-last_push_time = 2023-03-06T18:59:43.709916Z
-last_push_artifact = 0x154a
-last_push_artifact_type = "function"
+last_push_time = 2023-03-06T19:00:40.608168Z
+last_push_artifact = "sigaction::$CF138106520E5A28DAF2A67779B92EE8"
+last_push_artifact_type = "struct"
