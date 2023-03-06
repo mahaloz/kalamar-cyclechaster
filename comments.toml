@@ -1,0 +1,5 @@
+[0x13ee]
+addr = 0x13ee
+func_addr = 0x13d1
+comment = "*array == array[0]"
+decompiled = true
